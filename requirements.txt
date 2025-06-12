@@ -1,0 +1,12 @@
+requests
+bs4
+lxml
+dnspython
+aiohttp
+tldextract
+cryptography
+python-whois
+socket
+nmap
+whatweb
+argparse

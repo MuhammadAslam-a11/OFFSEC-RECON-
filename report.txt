@@ -1,0 +1,122 @@
+Recon Report for http://youtube.com
+Generated at: 2025-06-12T16:24:04.190254
+
+
+==================================================
+HOSTNAME RESULTS
+==================================================
+youtube.com
+
+==================================================
+IP RESULTS
+==================================================
+172.217.19.206
+
+==================================================
+HEADERS RESULTS
+==================================================
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Thu, 12 Jun 2025 11:23:49 GMT
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy: same-origin-allow-popups; report-to="youtube_main"
+Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+Origin-Trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+Content-Security-Policy: require-trusted-types-for 'script'
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=ur for more info."
+Content-Encoding: gzip
+Server: ESF
+X-XSS-Protection: 0
+Set-Cookie: GPS=1; Domain=.youtube.com; Expires=Thu, 12-Jun-2025 11:53:49 GMT; Path=/; Secure; HttpOnly, YSC=Hv3up7jDJTs; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none, VISITOR_INFO1_LIVE=CprjVpxKe5o; Domain=.youtube.com; Expires=Tue, 09-Dec-2025 11:23:49 GMT; Path=/; Secure; HttpOnly; SameSite=none, VISITOR_PRIVACY_METADATA=CgJQSxIEGgAgMQ%3D%3D; Domain=.youtube.com; Expires=Tue, 09-Dec-2025 11:23:49 GMT; Path=/; Secure; HttpOnly; SameSite=none, __Secure-ROLLOUT_TOKEN=CNbN0_GaxL-RywEQ1deNz-LrjQMY1deNz-LrjQM%3D; Domain=youtube.com; Expires=Tue, 09-Dec-2025 11:23:49 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+==================================================
+WHOIS RESULTS
+==================================================
+domain_name: YOUTUBE.COM
+registrar: MarkMonitor, Inc.
+creation_date:
+  2005-02-15 05:13:12
+  2005-02-15 05:13:12+00:00
+expiration_date:
+  2026-02-15 05:13:12
+  2026-02-15 00:00:00+00:00
+name_servers:
+  NS1.GOOGLE.COM
+  NS2.GOOGLE.COM
+  NS3.GOOGLE.COM
+  NS4.GOOGLE.COM
+emails:
+  abusecomplaints@markmonitor.com
+  whoisrequest@markmonitor.com
+status:
+  clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+  clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+  clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+  serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+  serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+  serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+  clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+  clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+  clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+  serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+  serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+  serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+
+==================================================
+DNS RESULTS
+==================================================
+A:
+  172.217.19.206
+MX:
+  0 smtp.google.com.
+TXT:
+  "facebook-domain-verification=64jdes7le4h7e7lfpi22rijygx58j1"
+  "google-site-verification=QtQWEwHWM8tHiJ4s-jJWzEQrD_fF3luPnpzNDH-Nw-w"
+  "v=spf1 include:google.com mx -all"
+NS:
+  ns2.google.com.
+  ns1.google.com.
+  ns3.google.com.
+  ns4.google.com.
+CNAME:
+
+==================================================
+SUBDOMAINS RESULTS
+==================================================
+*.c.youtube.com
+*.cache1.c.youtube.com
+*.cache2.c.youtube.com
+*.cache3.c.youtube.com
+*.cache4.c.youtube.com
+*.cache5.c.youtube.com
+*.cache6.c.youtube.com
+*.cache7.c.youtube.com
+*.cache8.c.youtube.com
+*.cctldtest.youtube.com
+*.gdata.youtube.com
+*.sandbox.youtube.com
+*.youtube.com
+admin.youtube.com
+ads.youtube.com
+cctldtest.youtube.com
+cms.youtube.com
+cyc.youtube.com
+misc-sni.youtube.com
+partner.youtube.com
+uberproxy-san.youtube.com
+upload.youtube.com
+uploads.stage.gdata.youtube.com
+youtube.com
+
+==================================================
+PORTS RESULTS
+==================================================
+80: http
+443: https
